@@ -19,3 +19,6 @@ or
 `react-native run-android`
 
 to start the simulator
+
+## Demo 
+<img src="https://raw.githubusercontent.com/hope-andrew/albums/master/demo.gif"  height="400px" alt="demo">
